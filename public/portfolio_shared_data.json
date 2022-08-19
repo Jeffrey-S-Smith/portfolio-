@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Jeffrey Smith",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer|Veteran" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Jeffrey-S-Smith",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "Linkedin",
+          "url": "https://www.linkedin.com/in/jeffrey-s-smith",
+          "class": "fab fa-linkedin-in"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "headshot.jpg"
     },
     "skills": {
       "icons": [
