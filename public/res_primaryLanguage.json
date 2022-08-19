@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Jeffrey Smith. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Hello I am Jeffrey Smith",
+      "description": " I am a methodical, customer-oriented and highly competent Software Developer with the training and six years of experience to excel in supply chain management and IT related roles. Which include software engineering, data and configuration analysis, computer maintenance, network configuration, workstation troubleshooting as well as building a complete system architecture from the ground up to meet specific client requirements. I am a technically-proficient consultant well-versed in the latest hardware and software upgrades and committed to providing excellent support to users. Additionally, I am a skilled trouble-shooter who is continually focused on identifying, isolating and resolving technical issues. My other expertise in the physical building of computers and servers, hardware installation, network and systems administration. Throughout my career, I have demonstrated my ability to learn quickly and “think on my feet” as well as collaborate with internal/external partners, including interfacing with senior levels of management to ensure customer satisfaction.My technical Proficiencies is HTML, CSS, JavaScript, React, Git, GitHub, Bash, LINUX, Windows, SQL, MS Office Suite (Word, Excel, and PowerPoint). What excites me about technology is that it is always changing and there are always new things coming out that you can learn. If this is what your organization is looking for, we should definitely connect!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -22,15 +22,15 @@
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "HTML"
           },
           {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "CSS"
           },
           {
             "class": "devicon-csharp-plain",
-            "name": "C#"
+            "name": "JavaScript"
           }
         ]
       },
