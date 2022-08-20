@@ -20,23 +20,18 @@
       "icons": [
         {
           "name": "HTML 5",
-          "class": "devicon-html5-plain",
+          "class": "devicon-html5-plain-wordmark colored",
           "level": "95"
         },
         {
           "name": "CSS 3",
-          "class": "devicon-css3-plain",
+          "class": "devicon-css3-plain-wordmark colored",
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "React",
+          "class": "devicon-react-original-wordmark colored",
           "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
         },
         {
           "name": "JavaScript",
@@ -44,25 +39,36 @@
           "level": "70"
         },
         {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
-        {
           "name": "Bootstrap",
-          "class": "devicon-bootstrap-plain",
+          "class": "devicon-bootstrap-plain-wordmark colored",
           "level": "85"
         },
         {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
+          "name": "Git",
+          "class": "devicon-git-plain colored",
+          "level": "75"
+        },
+        {
+          "name": "github",
+          "class": "devicon-github-original-wordmark colored",
+          "level": "85"
+        },
+        {
+          "name": "Linux",
+          "class": "devicon-linux-plain colored",
           "level": "65"
         },
         {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
+          "name": "Oracle",
+          "class": "devicon-oracle-original colored",
+          "level": "60"
+        },
+        {
+          "name": "Windows",
+          "class": "devicon-windows8-original colored",
           "level": "60"
         }
+        
       ]
     }
   }
